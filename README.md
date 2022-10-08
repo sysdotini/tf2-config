@@ -2,10 +2,11 @@
 
 My Team Fortress 2 config + custom content. This is meant to be used with mastercomfig - all VPKs are included if you'd like to just clone mine for some reason.
 
-## Content
+## Custom Content
 
 - Modified FlawHUD
 - TF2 Ultimate Visual Fixes
+- Custom/updated killfeed icons
 - Mastercomfig + customizations + sapper explosion script
 
 ## Features
