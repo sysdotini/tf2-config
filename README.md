@@ -5,17 +5,22 @@ My Team Fortress 2 config + custom content. This is meant to be used with master
 ## Custom Content
 
 - Modified FlawHUD
-- TF2 Ultimate Visual Fixes
-- Custom/updated killfeed icons
-- Mastercomfig + customizations
+- Quake III Arena hitsounds
+- Consistent killfeed icons
+- TF2 Ultimate Visual Fix Pack
+- Mastercomfig + Mastercomfig customizations
 
 ## Features
 
-- Auto-demo support
 - Sets sane defaults
-- Quake hit/killsounds
-- Ensures "advanced settings" are set on a fresh install
+- Auto-demo support
+- Quake III Arena hitsounds
 
 # License
 
-My (cfg/overrides/autoexec.cfg) is licensed under MIT. Anything in custom/ is property of the original owners and their respective licenses.
+My config [(cfg/overrides/autoexec.cfg)][config] is licensed under the [MIT][LICENSE] license. 
+
+**Anything in custom/ is property of the original owners and their respective licenses.**
+
+[config]: cfg/overrides/autoexec.cfg "autoexec config"
+[LICENSE]: LICENSE "mit license"
