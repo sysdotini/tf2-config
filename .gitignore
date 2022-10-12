@@ -1,1 +1,4 @@
 *.cache
+app/
+comfig-custom/*
+
