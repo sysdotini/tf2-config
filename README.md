@@ -7,7 +7,7 @@ My Team Fortress 2 config + custom content. This is meant to be used with master
 - Modified FlawHUD
 - TF2 Ultimate Visual Fixes
 - Custom/updated killfeed icons
-- Mastercomfig + customizations + sapper explosion script
+- Mastercomfig + customizations
 
 ## Features
 
