@@ -1175,7 +1175,7 @@
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
-			"bgcolor_override"	"MenuShader"
+			"bgcolor_override"	"TransparentLightBlack"
 		}
 	}
 	"VersionLabel"
