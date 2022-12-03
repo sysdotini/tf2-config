@@ -48,7 +48,7 @@
 		"Full Ubercharge Pulse"								"80 150 255 255"
 
 		"Heal Numbers"										"0 255 0 255"
-		"Last Damage Done"									"227 228 230 255"
+		"Last Damage Done"									"255 128 0 255" // Orange override
 
 		"Health Gained"										"75 210 75 255"
 		"Health Lost"										"255 50 50 255"
