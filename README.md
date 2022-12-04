@@ -13,7 +13,7 @@ My Team Fortress 2 config and custom content.
 
 ## Custom Content
 - Mastercomfig
-- Modified HypnotizeHud
+- Modified HypnotizeHud w/ HiDPI edits
 - Quake III Arena hitsounds
 - Consistent killfeed icons
 - TF2 Ultimate Visual Fix Pack
